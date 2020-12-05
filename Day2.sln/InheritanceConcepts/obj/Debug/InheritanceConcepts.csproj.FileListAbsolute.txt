@@ -1,0 +1,7 @@
+C:\Users\ADITI\Desktop\.NET\Day2.sln\InheritanceConcepts\obj\Debug\InheritanceConcepts.csprojAssemblyReference.cache
+C:\Users\ADITI\Desktop\.NET\Day2.sln\InheritanceConcepts\obj\Debug\InheritanceConcepts.csproj.CoreCompileInputs.cache
+C:\Users\ADITI\Desktop\.NET\Day2.sln\InheritanceConcepts\bin\Debug\InheritanceConcepts.exe.config
+C:\Users\ADITI\Desktop\.NET\Day2.sln\InheritanceConcepts\bin\Debug\InheritanceConcepts.exe
+C:\Users\ADITI\Desktop\.NET\Day2.sln\InheritanceConcepts\bin\Debug\InheritanceConcepts.pdb
+C:\Users\ADITI\Desktop\.NET\Day2.sln\InheritanceConcepts\obj\Debug\InheritanceConcepts.exe
+C:\Users\ADITI\Desktop\.NET\Day2.sln\InheritanceConcepts\obj\Debug\InheritanceConcepts.pdb

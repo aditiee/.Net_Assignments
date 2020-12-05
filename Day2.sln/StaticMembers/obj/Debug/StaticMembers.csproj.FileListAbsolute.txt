@@ -1,0 +1,7 @@
+C:\Users\ADITI\Desktop\.NET\Day2.sln\StaticMembers\bin\Debug\StaticMembers.exe.config
+C:\Users\ADITI\Desktop\.NET\Day2.sln\StaticMembers\bin\Debug\StaticMembers.exe
+C:\Users\ADITI\Desktop\.NET\Day2.sln\StaticMembers\bin\Debug\StaticMembers.pdb
+C:\Users\ADITI\Desktop\.NET\Day2.sln\StaticMembers\obj\Debug\StaticMembers.csprojAssemblyReference.cache
+C:\Users\ADITI\Desktop\.NET\Day2.sln\StaticMembers\obj\Debug\StaticMembers.csproj.CoreCompileInputs.cache
+C:\Users\ADITI\Desktop\.NET\Day2.sln\StaticMembers\obj\Debug\StaticMembers.exe
+C:\Users\ADITI\Desktop\.NET\Day2.sln\StaticMembers\obj\Debug\StaticMembers.pdb

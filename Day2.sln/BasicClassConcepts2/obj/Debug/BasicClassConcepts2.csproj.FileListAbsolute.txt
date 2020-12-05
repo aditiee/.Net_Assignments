@@ -1,0 +1,7 @@
+C:\Users\ADITI\Desktop\.NET\Day2.sln\BasicClassConcepts2\bin\Debug\BasicClassConcepts2.exe.config
+C:\Users\ADITI\Desktop\.NET\Day2.sln\BasicClassConcepts2\bin\Debug\BasicClassConcepts2.exe
+C:\Users\ADITI\Desktop\.NET\Day2.sln\BasicClassConcepts2\bin\Debug\BasicClassConcepts2.pdb
+C:\Users\ADITI\Desktop\.NET\Day2.sln\BasicClassConcepts2\obj\Debug\BasicClassConcepts2.csprojAssemblyReference.cache
+C:\Users\ADITI\Desktop\.NET\Day2.sln\BasicClassConcepts2\obj\Debug\BasicClassConcepts2.csproj.CoreCompileInputs.cache
+C:\Users\ADITI\Desktop\.NET\Day2.sln\BasicClassConcepts2\obj\Debug\BasicClassConcepts2.exe
+C:\Users\ADITI\Desktop\.NET\Day2.sln\BasicClassConcepts2\obj\Debug\BasicClassConcepts2.pdb

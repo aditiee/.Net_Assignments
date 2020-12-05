@@ -1,0 +1,7 @@
+C:\Users\ADITI\Desktop\.NET\Assignments\InterfacesConcept\InterfaceDispose\bin\Debug\InterfaceDispose.exe.config
+C:\Users\ADITI\Desktop\.NET\Assignments\InterfacesConcept\InterfaceDispose\bin\Debug\InterfaceDispose.exe
+C:\Users\ADITI\Desktop\.NET\Assignments\InterfacesConcept\InterfaceDispose\bin\Debug\InterfaceDispose.pdb
+C:\Users\ADITI\Desktop\.NET\Assignments\InterfacesConcept\InterfaceDispose\obj\Debug\InterfaceDispose.csproj.CoreCompileInputs.cache
+C:\Users\ADITI\Desktop\.NET\Assignments\InterfacesConcept\InterfaceDispose\obj\Debug\InterfaceDispose.exe
+C:\Users\ADITI\Desktop\.NET\Assignments\InterfacesConcept\InterfaceDispose\obj\Debug\InterfaceDispose.pdb
+C:\Users\ADITI\Desktop\.NET\Assignments\InterfacesConcept\InterfaceDispose\obj\Debug\InterfaceDispose.csprojAssemblyReference.cache
