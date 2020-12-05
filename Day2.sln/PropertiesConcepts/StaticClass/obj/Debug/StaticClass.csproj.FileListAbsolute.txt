@@ -1,0 +1,6 @@
+C:\Users\ADITI\source\repos\PropertiesConcepts\StaticClass\bin\Debug\StaticClass.exe.config
+C:\Users\ADITI\source\repos\PropertiesConcepts\StaticClass\bin\Debug\StaticClass.exe
+C:\Users\ADITI\source\repos\PropertiesConcepts\StaticClass\bin\Debug\StaticClass.pdb
+C:\Users\ADITI\source\repos\PropertiesConcepts\StaticClass\obj\Debug\StaticClass.csproj.CoreCompileInputs.cache
+C:\Users\ADITI\source\repos\PropertiesConcepts\StaticClass\obj\Debug\StaticClass.exe
+C:\Users\ADITI\source\repos\PropertiesConcepts\StaticClass\obj\Debug\StaticClass.pdb

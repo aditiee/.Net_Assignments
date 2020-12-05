@@ -1,0 +1,7 @@
+C:\Users\ADITI\source\repos\PropertiesConcepts\StaticProperties\bin\Debug\StaticProperties.exe.config
+C:\Users\ADITI\source\repos\PropertiesConcepts\StaticProperties\bin\Debug\StaticProperties.exe
+C:\Users\ADITI\source\repos\PropertiesConcepts\StaticProperties\bin\Debug\StaticProperties.pdb
+C:\Users\ADITI\source\repos\PropertiesConcepts\StaticProperties\obj\Debug\StaticProperties.csprojAssemblyReference.cache
+C:\Users\ADITI\source\repos\PropertiesConcepts\StaticProperties\obj\Debug\StaticProperties.csproj.CoreCompileInputs.cache
+C:\Users\ADITI\source\repos\PropertiesConcepts\StaticProperties\obj\Debug\StaticProperties.exe
+C:\Users\ADITI\source\repos\PropertiesConcepts\StaticProperties\obj\Debug\StaticProperties.pdb

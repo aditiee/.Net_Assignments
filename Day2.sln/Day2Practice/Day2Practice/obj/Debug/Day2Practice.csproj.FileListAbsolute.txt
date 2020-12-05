@@ -1,0 +1,7 @@
+C:\Users\ADITI\source\repos\Day2Practice\Day2Practice\bin\Debug\Day2Practice.exe.config
+C:\Users\ADITI\source\repos\Day2Practice\Day2Practice\bin\Debug\Day2Practice.exe
+C:\Users\ADITI\source\repos\Day2Practice\Day2Practice\bin\Debug\Day2Practice.pdb
+C:\Users\ADITI\source\repos\Day2Practice\Day2Practice\obj\Debug\Day2Practice.csprojAssemblyReference.cache
+C:\Users\ADITI\source\repos\Day2Practice\Day2Practice\obj\Debug\Day2Practice.csproj.CoreCompileInputs.cache
+C:\Users\ADITI\source\repos\Day2Practice\Day2Practice\obj\Debug\Day2Practice.exe
+C:\Users\ADITI\source\repos\Day2Practice\Day2Practice\obj\Debug\Day2Practice.pdb

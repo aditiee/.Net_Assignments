@@ -1,0 +1,7 @@
+C:\Users\ADITI\source\repos\PropertiesConcepts\PropertiesConcepts\bin\Debug\PropertiesConcepts.exe.config
+C:\Users\ADITI\source\repos\PropertiesConcepts\PropertiesConcepts\bin\Debug\PropertiesConcepts.exe
+C:\Users\ADITI\source\repos\PropertiesConcepts\PropertiesConcepts\bin\Debug\PropertiesConcepts.pdb
+C:\Users\ADITI\source\repos\PropertiesConcepts\PropertiesConcepts\obj\Debug\PropertiesConcepts.csprojAssemblyReference.cache
+C:\Users\ADITI\source\repos\PropertiesConcepts\PropertiesConcepts\obj\Debug\PropertiesConcepts.csproj.CoreCompileInputs.cache
+C:\Users\ADITI\source\repos\PropertiesConcepts\PropertiesConcepts\obj\Debug\PropertiesConcepts.exe
+C:\Users\ADITI\source\repos\PropertiesConcepts\PropertiesConcepts\obj\Debug\PropertiesConcepts.pdb
