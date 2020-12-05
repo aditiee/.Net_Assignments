@@ -1,0 +1,7 @@
+C:\Users\ADITI\source\repos\Basic\BasicProgram1\bin\Debug\BasicProgram1.exe.config
+C:\Users\ADITI\source\repos\Basic\BasicProgram1\bin\Debug\BasicProgram1.exe
+C:\Users\ADITI\source\repos\Basic\BasicProgram1\bin\Debug\BasicProgram1.pdb
+C:\Users\ADITI\source\repos\Basic\BasicProgram1\obj\Debug\BasicProgram1.csprojAssemblyReference.cache
+C:\Users\ADITI\source\repos\Basic\BasicProgram1\obj\Debug\BasicProgram1.csproj.CoreCompileInputs.cache
+C:\Users\ADITI\source\repos\Basic\BasicProgram1\obj\Debug\BasicProgram1.exe
+C:\Users\ADITI\source\repos\Basic\BasicProgram1\obj\Debug\BasicProgram1.pdb
